@@ -1,4 +1,4 @@
-# School Admission System (Enhanced Version)
+# School Admission System 
 
 Complete full-stack School Admission System adhering to all assignment specifications and custom enhancements.
 
